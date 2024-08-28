@@ -1,4 +1,4 @@
-Air Quality Index (AQI) Analysis of Indian Cities
+#Air Quality Index (AQI) Analysis of Indian Cities
 
 Overview
 This project focuses on the analysis of the Air Quality Index (AQI) of various cities across India. The analysis involves transforming raw data and visualizing key insights using Power BI. The report includes multiple visualizations to help stakeholders understand the air quality patterns across different regions and time periods.
